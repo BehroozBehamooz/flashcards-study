@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/flashcards-study/static/js/main.589567a7.chunk.js",
-    "main.js.map": "/flashcards-study/static/js/main.589567a7.chunk.js.map",
+    "main.js": "/flashcards-study/static/js/main.0661ef30.chunk.js",
+    "main.js.map": "/flashcards-study/static/js/main.0661ef30.chunk.js.map",
     "runtime-main.js": "/flashcards-study/static/js/runtime-main.094fa52e.js",
     "runtime-main.js.map": "/flashcards-study/static/js/runtime-main.094fa52e.js.map",
-    "static/js/2.2dce439d.chunk.js": "/flashcards-study/static/js/2.2dce439d.chunk.js",
-    "static/js/2.2dce439d.chunk.js.map": "/flashcards-study/static/js/2.2dce439d.chunk.js.map",
+    "static/js/2.6252e885.chunk.js": "/flashcards-study/static/js/2.6252e885.chunk.js",
+    "static/js/2.6252e885.chunk.js.map": "/flashcards-study/static/js/2.6252e885.chunk.js.map",
     "index.html": "/flashcards-study/index.html",
-    "static/js/2.2dce439d.chunk.js.LICENSE.txt": "/flashcards-study/static/js/2.2dce439d.chunk.js.LICENSE.txt"
+    "static/js/2.6252e885.chunk.js.LICENSE.txt": "/flashcards-study/static/js/2.6252e885.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.094fa52e.js",
-    "static/js/2.2dce439d.chunk.js",
-    "static/js/main.589567a7.chunk.js"
+    "static/js/2.6252e885.chunk.js",
+    "static/js/main.0661ef30.chunk.js"
   ]
 }
